@@ -1,0 +1,1 @@
+<?php echo "Здравствуйте, ".$_GET["surname"]." ".$_GET["myname"]." ".$_GET["patronymic"]."."; ?>

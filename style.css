@@ -1,0 +1,31 @@
+#kont {
+    width:960px;
+    padding:10px;
+    margin:auto;
+    background:#fff;
+}
+#header {
+    height: 30px;
+	background:#00A0A0;
+}
+#left {
+    float:left;
+    width:200px;
+	background:#00F0F0;
+	min-height: 100%;
+}
+#content {
+	background:#00FF00;
+	min-height: 100%;
+}
+#footer {
+	position: fixed;
+	width:960px;
+    height: 30px;
+    bottom: 0;
+	background:#00AA00;
+}
+body {
+    height: 100%;
+    margin-bottom: 30px;
+}
